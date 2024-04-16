@@ -1,0 +1,5 @@
+név: Németh Dániel
+szakadatok: Gábor Dénes Egyetem - Gazdaságinformatikus
+szint: alapképzés (BA/ BSc / BProf)
+Tagozat: Távoktatás
+neptun kód: YELCM5
